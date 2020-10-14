@@ -9,3 +9,5 @@ https://github.com/solovyevaa/OnTheMap.git
 "On The Map" includes Facebook (log in/out) framework: https://developers.facebook.com/docs/facebook-login/ios/
 
 The app uses Udacity API so you should be signed up via Udacity or Facebook.
+
+The app is developed for iPhone and iPad (v.13.0)
